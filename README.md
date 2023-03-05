@@ -2,10 +2,14 @@
 
 ## Introduction
 
-Apheleia is a simple,lightweight Perl-based Pastebin clone that allows users to paste code snippets or any type of text and share the resulting URL with others.
+Apheleia is a simple Perl-based Pastebin clone that allows users to paste code snippets or any type of text and share the resulting URL with others.
 
 ## Why the name?
 Apheleia is the Greek goddess of simplicity, prudence, and modesty. I chose this name for my pastebin project because I believe in the power of simplicity and minimalism in software design.
+
+## Why use Apheleia at all ? 
+
+Apheleia is a lightweight and responsive solution, with the entire script weighing in at just 2KB
 
 ## Requirements
 
