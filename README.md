@@ -9,7 +9,7 @@ Apheleia is the Greek goddess of simplicity, prudence, and modesty. I chose this
 
 ## Why use Apheleia at all ? 
 
-Apheleia is a lightweight and responsive solution, with the entire script weighing in at just 2KB
+Apheleia is a lightweight and responsive solution, with the entire script weighing in at just 2KB.
 
 ## Requirements
 
